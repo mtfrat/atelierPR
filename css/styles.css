@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+
+
+.whatsappImg{
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  z-index: 1;
+}
+
+.whatsappImg img{
+  width: 80px;
+}
+
+h1{
+  color: #FA94F4;
+}
+
+.col-lg-12{
+  padding: 0px;
+}
+
+.containerIndex img{
+  height: auto;
+  width: 100%;
+}
+
+.centrado{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Great Vibes', cursive;
+  font-size: 100px;
+}
