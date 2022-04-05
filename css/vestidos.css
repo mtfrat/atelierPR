@@ -1,0 +1,33 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+
+
+h1{
+    color: #FA94F4;
+    text-align: center;
+}
+
+.whatsappImg{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    z-index: 1;
+}
+
+.whatsappImg img{
+    width: 80px;
+}
+
+.contenedorImagenes{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.contenedorImagenes img{
+    margin-top: 10px;
+}
